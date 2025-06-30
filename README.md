@@ -106,3 +106,6 @@ Basic form not optimized for binary data
 Conclusion
 This file compression tool in C++ offers a simple but effective way to compress and decompress files using the RLE algorithm. With the potential for multithreaded optimization, it can serve as a foundation for more advanced and performance-oriented compression tools. The program also demonstrates important programming concepts including file handling, string manipulation, algorithm design, and conditional logic—making it an ideal project for both practical use and educational purposes.
 
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/d021a5e7-c7ae-4bdd-b656-fb5296ad2719)
+
