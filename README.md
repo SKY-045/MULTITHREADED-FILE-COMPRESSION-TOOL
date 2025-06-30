@@ -111,3 +111,6 @@ This file compression tool in C++ offers a simple but effective way to compress 
 
 # OUTPUT 2
 ![Image](https://github.com/user-attachments/assets/e74404cb-9973-47e4-a58a-97cbd9582b06)
+
+# OUTPUT 3
+![Image](https://github.com/user-attachments/assets/e4bf168a-b501-4a50-88a5-b5e5e3682eb1)
